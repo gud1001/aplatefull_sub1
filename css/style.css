@@ -131,13 +131,13 @@ body{
 
 .con2{
   background: url(../images/b0.jpg)no-repeat center bottom;
-  overflow: hidden;
 }
 .con2_in{
   width: 1320px;
   height: 1995px;
   margin: auto;
   text-align: center;
+  overflow: hidden;
 }
 .c1 li{
   width: 50%;
